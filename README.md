@@ -1,1 +1,1 @@
-This is a readme file for the Odin Project project in order to show my progress and completion foundation courses.  
+This is a readme file for the Odin Project project in order to show my progress and completion of foundation courses.  
